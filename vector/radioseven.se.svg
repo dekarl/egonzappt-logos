@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="radioseven.se.svg"
+   inkscape:export-filename="D:\projekte\kasa\mythtv\chanlogos\16x16\radioseven.se.png"
+   inkscape:export-xdpi="5.625"
+   inkscape:export-ydpi="5.625">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2840"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="174.62555"
+     inkscape:cy="141.19073"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vektor"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)"
+     style="display:inline">
+    <path
+       style="fill:#a31329;fill-opacity:1;stroke:none;display:inline"
+       d="m 65.27048,1.8639252 c 1.166523,-0.061722 6.956719,-0.2471498 12.867102,-0.4120615 22.953698,-0.64045472 42.102808,0.3307518 61.837498,3.1362803 22.82479,3.2448227 39.5382,7.692705 52.41106,13.947969 3.0237,1.469296 7.41168,3.978095 7.6813,4.39173 0.26019,0.399166 -0.23884,6.5454 -0.91339,11.249566 -2.83504,19.771053 -12.22422,48.958271 -27.50364,85.497901 -21.30962,50.96041 -46.92324,93.79078 -69.8042,116.72462 -12.292782,12.32116 -24.16231,18.93464 -33.955059,18.91911 -2.3093,-0.004 -2.731313,-0.22384 -1.231605,-0.64257 4.884034,-1.36361 10.645375,-4.49858 15.626497,-8.50301 11.622425,-9.34348 23.310567,-24.77746 36.332027,-47.97582 10.23431,-18.23293 19.99117,-39.60585 28.48737,-62.4031 13.32466,-35.75309 21.62893,-67.821666 22.0384,-85.10558 l 0.0532,-2.247083 -2.19018,-0.99571 c -5.15663,-2.344338 -11.07259,-3.974442 -17.05183,-4.698522 -1.34135,-0.162436 -4.30526,-0.344307 -6.58646,-0.404157 -14.78334,-0.387859 -31.07498,3.003291 -49.206065,10.242379 -3.528284,1.408717 -9.719802,4.113405 -11.616373,5.074469 -0.803592,0.407211 -1.010787,0.448478 -1.206476,0.240289 C 80.998809,57.53796 63.149529,3.215753 63.149529,2.5409667 l 0,-0.5648194 2.120951,-0.1122221 z"
+       id="path3637"
+       transform="translate(0,796.36218)"
+       sodipodi:nodetypes="csssssssssssscccsssssccc" />
+  </g>
+</svg>

@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,7 +135,7 @@
      id="layer2"
      inkscape:label="HD"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <g
        id="g3267-4"
        transform="matrix(0.08507776,0,0,0.08507776,138.59003,99.44941)"
